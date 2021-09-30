@@ -44,6 +44,5 @@ I have improved my knowledge on **Revit API** with **Python** to some extent. Cu
 
 ## Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bimgeek&show_icons=true&theme=gotham" alt="bimgeek"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimgeek&layout=compact&theme=react">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bimgeek&show_icons=true&theme=gotham" alt="bimgeek" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimgeek&layout=compact&theme=react"/></p>
