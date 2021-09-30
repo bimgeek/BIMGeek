@@ -6,10 +6,14 @@ With background in architecture, I am passionate about computational design and 
 
 I envision a connected, progressive and collaborative AEC Industry. I have a strong level of ability to organize activities, work with team members and increase the motivation of team. I am open to learn, extend, and improve the individual capabilities and communication skills. I love learning new things, tools and softwares in my spare time.
 
-## What I'm focusing on 👨‍💻
+---
+
+### What I'm focusing on 🎯
 I have improved my knowledge on **Revit API** with **Python** to some extent. Currently improving my **JavaScript** skills to get into **Forge**.
 
-## Find Me
+---
+
+### Find Me 🔎
 
 <a href="https://bimgeek.github.io/">
     <img src="https://img.shields.io/badge/-WEBSITE-grey?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website Badge" />
@@ -31,7 +35,9 @@ I have improved my knowledge on **Revit API** with **Python** to some extent. Cu
     <img src="https://img.shields.io/badge/-GMAİL-white?style=for-the-badge&logo=gmail" alt="Gmail Badge" />
 </a>
 
-## Tech I Used
+---
+
+### Tech I Used 👨‍💻
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -42,7 +48,9 @@ I have improved my knowledge on **Revit API** with **Python** to some extent. Cu
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)
 ![HUGO](https://img.shields.io/badge/%20-HUGO-blue?style=for-the-badge&logo=hugo&logoColor=white)
 
-## Github Stats
+---
+
+### Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bimgeek&show_icons=true&theme=gotham" alt="bimgeek" />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimgeek&layout=compact&theme=react"/></p>
