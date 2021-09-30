@@ -30,3 +30,14 @@ I have improved my knowledge on **Revit API** with **Python** to some extent. Cu
 <a href="mailto:mucahitbgoker@gmail.com">
     <img src="https://img.shields.io/badge/-GMAİL-white?style=for-the-badge&logo=gmail" alt="Gmail Badge" />
 </a>
+
+## Tech I Used
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)
+![HUGO](https://img.shields.io/badge/%20-HUGO-blue?style=for-the-badge&logo=hugo&logoColor=white)
