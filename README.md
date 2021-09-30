@@ -41,3 +41,9 @@ I have improved my knowledge on **Revit API** with **Python** to some extent. Cu
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)
 ![HUGO](https://img.shields.io/badge/%20-HUGO-blue?style=for-the-badge&logo=hugo&logoColor=white)
+
+## Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bimgeek&show_icons=true&theme=gotham" alt="bimgeek"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimgeek&layout=compact&theme=react">
+</p>
