@@ -32,7 +32,7 @@ I have improved my knowledge on **Revit API** with **Python** to some extent. Cu
 </a>
 
 <a href="mailto:mucahitbgoker@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAİL-white?style=for-the-badge&logo=gmail" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/-GMAIL-white?style=for-the-badge&logo=gmail" alt="Gmail Badge" />
 </a>
 
 ---
